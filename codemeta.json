@@ -80,10 +80,8 @@
         "https://w3id.org/research-technology-readiness-levels#Level9Proven"
     ],
     "keywords": [
-        "cultural heritage",
-        "data portal",
         "search",
-        "annotation"
+        "sparql"
     ],
     "softwareHelp": [
         {
